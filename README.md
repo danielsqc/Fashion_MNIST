@@ -1,2 +1,3 @@
-# Fashion_MNIST
-Fashion MNIST assignment done in the first term (2021.1)
+# Description
+
+A simple TensorFlow Neural Network, developed to work on the Fashion MNIST dataset from Keras.
