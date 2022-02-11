@@ -1,3 +1,5 @@
-# Description
+# Fashion MNIST
 
-A simple TensorFlow Neural Network, developed to work on the Fashion MNIST dataset from Keras.
+## Context
+
+This notebook is a simple implementation of a Neural Network from TensorFlow, developed to work with the Fashion MNIST dataset from Keras.
